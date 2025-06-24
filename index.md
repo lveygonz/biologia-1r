@@ -1,7 +1,6 @@
 ---
-layout: home
-title: "Biologia 1"
-permalink: /
-excerpt: "Eso"
+title: "Lowkey"
+nav_order: 1
 ---
+
 Benvingut/da!
