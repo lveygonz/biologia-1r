@@ -29,6 +29,7 @@ A banda de les classes presencials, farem servir aquesta web i un Classroom per 
 
 - Hauràs de visitar sovint el teu *Google Classroom* pel lliurament tasques, seguiment d'incidències, etc.
 - Estarem pendents de les característiques de la proves de biologia a les PAU. Aquí tens la [web](https://www.ub.edu/paubiologia/) de l'equip responsable. Allà trobaràs una pàgina amb tots els exàmens i el que és més important, [les pautes de correcció](https://www.ub.edu/paubiologia/examens.htm), la [classificació](https://www.ub.edu/paubiologia/classificacio.htm) de les preguntes per temàtica, i una [col·lecció](https://drive.google.com/drive/folders/16qLS0m40pWSaf9_lZpuaeqh2lNANVwPX) de problemes per temàtica.
+- Hi ha un llibre digital molt complet a [OpenStax](https://openstax.org/details/books/biology-2e), orientat a un nivell preuniversitari. Pots fer servir la [traducció](https://support.google.com/chrome/answer/173424?hl=es&co=GENIE.Platform%3DDesktop) al català des del navegador Chrome.
 
 
 Vídeos, articles i exercicis sobre biologia en la versió en castellà de Khan academy
