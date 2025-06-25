@@ -8,6 +8,10 @@ nav_order: 1
 
 [^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/batxillerat/), d'acord el Decret 171/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
+## Test
+A veure com es veu
+
+
 ### **Sabers**
 De forma abreujada, aquest primer curs gira al voltant de cinc blocs de sabers:
 
