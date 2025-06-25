@@ -33,21 +33,4 @@ A banda de les classes presencials, farem servir aquesta web i un Classroom per 
 - En [Khan Academy](https://es.khanacademy.org/) trobareu molta informació, clara i entendora. Si cliqueu al botó "Explorar" podreu triar entre un curs de biologia general, biologia de secundària o biologia avançada. L'idioma és castellà, pero podeu fer servir la [traducció](https://support.google.com/chrome/answer/173424?hl=es&co=GENIE.Platform%3DDesktop).
 
 
-Vídeos, articles i exercicis sobre biologia en la versió en castellà de Khan academy
-
-
-Conceptes de genètica al National Human Genome Research Institute
-
-Bloc de ciències naturals Naturalsom
-
-Materials d'autoformació de l'Institut Obert de Catalunya (IOC)
-
-Bibliografia recomanada
-
-Nou Biocontext 1. Biologia. Editorial Teide.
-
-B1. Biologia. Editorial Vicens Vives.
-
-*Curs de biologia de Khan Academy
-
-
+Si necessites més recursos o alguna recomanació de llibre digital o físic, comenta-m'ho a classe o escriu-me un correu electrònic.
