@@ -7,7 +7,7 @@ nav_order: 1
 
 [^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/batxillerat/), d'acord el Decret 171/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
-#### **Sabers**
+### **Sabers**
 De forma abreujada, aquest primer curs gira al voltant de cinc blocs de sabers:
 
 - *Projecte científic*: on posarem en pràctica el mètode científic, habilitats i actituds per analitzar problemes i comunicar-nos adequadament.
@@ -25,15 +25,14 @@ Tens clara quina és la història, l'origen de la cèl·lula eucariota? Saps qui
 Potser a l'inici de curs pots respondre amb més o menys detall aquestes preguntes. El nostre objectiu serà comprendre amb profunditat aquestes (i més) qüestions, treballant-les de forma teòrica i pràctica.
 A banda de les classes presencials, farem servir aquesta web i un Classroom per comunicar-nos, penjar material, tasques, informació, etc.
 
-### Enllaços i recursos
+### Enllaços i recursos d'aprenentatge
 
-Classroom de Biologia
+- Hauràs de visitar sovint el teu *Google Classroom* pel lliurament tasques, seguiment d'incidències, etc.
+- Estarem pendents de les característiques de la proves de biologia a les PAU. Aquí tens la (web)[https://www.ub.edu/paubiologia/] de l'equip responsable. Allà trobaràs una pàgina amb tots els exàmens i el que és més important, (les pautes de correcció)[https://www.ub.edu/paubiologia/examens.htm], la (classificació)[https://www.ub.edu/paubiologia/classificacio.htm] de les preguntes per temàtica, i una (col·lecció)[https://drive.google.com/drive/folders/16qLS0m40pWSaf9_lZpuaeqh2lNANVwPX] de problemes per temàtica.
 
-Si voleu saber més sobre la imatge de capçalera, seguiu aquest enllaç
 
 Vídeos, articles i exercicis sobre biologia en la versió en castellà de Khan academy
 
-Preguntes de les PAU classificades per temàtica
 
 Conceptes de genètica al National Human Genome Research Institute
 
