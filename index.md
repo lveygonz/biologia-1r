@@ -5,7 +5,7 @@ nav_order: 1
 
 *Welcome* al primer curs de biologia, optativa del primer curs de batxillerat. Consulta el [currículum oficial](docs/official-curriculum-biologia1.pdf) de la matèria per obtenir més informació[^bignote].
 
-[^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/batxillerat/), d'acord el Decret 175/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
+[^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/batxillerat/), d'acord el Decret 171/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
 
 
