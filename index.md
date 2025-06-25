@@ -7,14 +7,14 @@ nav_order: 1
 
 [^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/batxillerat/), d'acord el Decret 171/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
-#### Sabers
+#### **Sabers**
 De forma abreujada, aquest primer curs gira al voltant de cinc blocs de sabers:
 
-- Projecte científic: on posarem en pràctica el mètode científic, habilitats i actituds per analitzar problemes i comunicar-nos adequadament.
-- Història de la vida: hipòtesis sobre l'origen de la vida, percepció i aplicació del pensament evolutiu, diversitat i taxonomia.
-- Bioquímica, fisiologia animal i vegetal: estudi de les biomolècules orgàniques i inorgàniques, introducció a la bioquímica, coordinació en animals, fotosíntesi i biologia de la reproducció.
-- Biologia cel·lular: teoria cel·lular, microscòpia i fisiologia cel·lular
-- Ecologia i sostenibilitat: dinàmica dels ecosistemes, indicadors de sostenibilitat i canvi climàtic.
+- **Projecte científic**: on posarem en pràctica el mètode científic, habilitats i actituds per analitzar problemes i comunicar-nos adequadament.
+- **Història de la vida**: hipòtesis sobre l'origen de la vida, percepció i aplicació del pensament evolutiu, diversitat i taxonomia.
+- **Bioquímica, fisiologia animal i vegetal**: estudi de les biomolècules orgàniques i inorgàniques, introducció a la bioquímica, coordinació en animals, fotosíntesi i biologia de la reproducció.
+- **Biologia cel·lular**: teoria cel·lular, microscòpia i fisiologia cel·lular
+- **Ecologia i sostenibilitat**: dinàmica dels ecosistemes, indicadors de sostenibilitat i canvi climàtic.
 
 
 
