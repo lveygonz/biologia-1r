@@ -1,5 +1,5 @@
 ---
-title: "Lowkey"
+title: "Home"
 nav_order: 1
 ---
 
