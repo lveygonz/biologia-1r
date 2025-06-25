@@ -25,7 +25,7 @@ Tens clara quina és la història, l'origen de la cèl·lula eucariota? Saps qui
 Potser a l'inici de curs pots respondre amb més o menys detall aquestes preguntes. El nostre objectiu serà comprendre amb profunditat aquestes (i més) qüestions, treballant-les de forma teòrica i pràctica.
 A banda de les classes presencials, farem servir aquesta web i un Classroom per comunicar-nos, penjar material, tasques, informació, etc.
 
-### Enllaços i recursos d'aprenentatge
+### **Enllaços i recursos d'aprenentatge**
 
 - Hauràs de visitar sovint el teu *Google Classroom* pel lliurament tasques, seguiment d'incidències, etc.
 - Estarem pendents de les característiques de la proves de biologia a les PAU. Aquí tens la (web)[https://www.ub.edu/paubiologia/] de l'equip responsable. Allà trobaràs una pàgina amb tots els exàmens i el que és més important, (les pautes de correcció)[https://www.ub.edu/paubiologia/examens.htm], la (classificació)[https://www.ub.edu/paubiologia/classificacio.htm] de les preguntes per temàtica, i una (col·lecció)[https://drive.google.com/drive/folders/16qLS0m40pWSaf9_lZpuaeqh2lNANVwPX] de problemes per temàtica.
